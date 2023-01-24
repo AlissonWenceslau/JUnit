@@ -10,7 +10,7 @@ public class AccountTests {
 
 	//Padrão de nomeclatura: <AÇÃO> should <EFEITO> when <CENÁRIO>
 	@Test
-	public void depositShoultIncreaseBalanceWhenPositiveAmount() {
+	public void depositShouldIncreaseBalanceWhenPositiveAmount() {
 		//Padrão AAA
 		
 		//Arrange
